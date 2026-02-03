@@ -1,0 +1,17 @@
+# Build directory
+build/
+
+# Executables
+memory_pool_demo
+*.exe
+*.out
+
+# Object files
+*.o
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
