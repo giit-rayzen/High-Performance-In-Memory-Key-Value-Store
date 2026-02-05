@@ -18,6 +18,7 @@ set(SOURCES
     src/KeyValueStore.cpp
     src/StorageEngine.cpp
     src/main.cpp
+    src/ThreadSafeStore.cpp
 )
 
 # Executable
